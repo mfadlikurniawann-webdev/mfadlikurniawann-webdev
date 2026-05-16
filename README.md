@@ -176,4 +176,3 @@ Whether it involves a **web application**, **internal system**, **brand campaign
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
