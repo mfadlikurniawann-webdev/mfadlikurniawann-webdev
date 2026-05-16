@@ -35,13 +35,16 @@ const fadli = {
 
 ## About Me
 
-I am a **Cum Laude Informatics graduate** who operates at the intersection of **software engineering**, **business operations**, and **digital marketing**. I build internal systems that eliminate operational bottlenecks and design digital campaigns that compound brand growth over time.
+I am a **Cum Laude Informatics graduate** who sits at the crossroads of **software engineering**, **business operations**, and **digital strategy** — not because I had to pick one, but because the most impactful solutions live where all three meet.
 
-- Currently architecting an HRIS, POS, and reservation system from the ground up at **PT LBQueen Care Beauty**, while managing the full HR lifecycle end-to-end
-- Growing and managing social channels at **PT Arga Bumi Indonesia** — 3,000+ TikTok followers and 20+ FYP-featured videos as a solo content producer
-- Published researcher with a SINTA 3-indexed paper evaluating ML algorithms (Logistic Regression, Random Forest, SVM, KNN) for diabetes prediction
+I build systems that replace manual chaos with structured efficiency, and I craft digital campaigns that turn brand presence into measurable business growth. My work spans internal tooling, HR digitalization, social media growth, and visual identity — always with one goal: create something that actually moves the needle.
+
+- Architecting a full **HRIS, POS, and reservation system** from scratch at **PT LBQueen Care Beauty** — cutting transaction time by 45% and eliminating 12 hours/week of manual admin work
+- Managing 4 social media channels solo at **PT Arga Bumi Indonesia**, growing to **3,000+ TikTok followers** and producing 20+ FYP-featured videos — while also screening 200+ farmer and agent prospects per month to accelerate B2B conversion
+- Previously drove **150K+ views** and a 30% engagement lift at **PT Growlab Digital Solution**, and **1.5M+ total views** with a 60% engagement increase at **PT Lampung Geh Helau**
+- Published researcher with a **SINTA 3-indexed paper** benchmarking ML algorithms (Logistic Regression, Random Forest, SVM, KNN) for diabetes prediction
 - Awardee of **Pertukaran Mahasiswa Merdeka Batch 3** — Universitas Surabaya
-- Committed to building products where **clean architecture**, **thoughtful design**, and **user empathy** converge
+- Former **Assistant Lecturer** at Universitas Teknokrat Indonesia, improving student final project quality by 20% and achieving 95% evaluation completion efficiency
 
 ---
 
