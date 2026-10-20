@@ -1,31 +1,17 @@
-<!-- ============================================================
-     Ganti semua "YOUR_USERNAME" dengan username GitHub kamu.
-     ============================================================ -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=M%20Fadli%20Kurniawan&fontSize=52&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20ERP%20%26%20Automation%20%7C%20Digital%20Strategist&descAlignY=55&descSize=17&animation=twinkling" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="M Fadli Kurniawan" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Building+web+apps+%26+internal+systems;Odoo+ERP+%7C+Python+%7C+FastAPI+%7C+Laravel;AI-assisted+development+with+Claude+%26+Codex;Where+logic+meets+creativity" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+web+apps+%26+internal+systems;Odoo+ERP+%7C+Python+%7C+FastAPI+%7C+Laravel;AI-assisted+development+with+Claude+%26+Codex;Where+logic+meets+creativity" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.mfadlikurniawan.online">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mfadlikurniawan">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/fadlikurniiaawan">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:mfadlikurniawann@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet&label=Profile+Views" />
+  <a href="https://www.mfadlikurniawan.online"><img src="https://img.shields.io/badge/Portfolio-16223A?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mfadlikurniawan"><img src="https://img.shields.io/badge/LinkedIn-16223A?style=flat-square&logo=linkedin&logoColor=0A9DFF" /></a>
+  <a href="https://instagram.com/fadlikurniiaawan"><img src="https://img.shields.io/badge/Instagram-16223A?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+  <a href="mailto:mfadlikurniawann@gmail.com"><img src="https://img.shields.io/badge/Gmail-16223A?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mfadlikurniawann-webdev&style=flat-square&color=2DD4BF&label=Profile+views" />
 </div>
 
 <br/>
@@ -54,8 +40,6 @@ const fadli = {
   principle : "Where logic meets creativity — that is where great products are born."
 };
 ```
-
----
 
 ## What I Build
 
@@ -90,70 +74,66 @@ Content strategy, community building, and performance analytics across Meta and 
 </tr>
 </table>
 
----
-
 ## Tech Stack
 
 <div align="center">
 
 #### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-16223A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-16223A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-16223A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-16223A?style=for-the-badge&logo=php&logoColor=8892BF)
+![Go](https://img.shields.io/badge/Go-16223A?style=for-the-badge&logo=go&logoColor=00ADD8)
+![HTML5](https://img.shields.io/badge/HTML5-16223A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-16223A?style=for-the-badge&logo=css3&logoColor=2965F1)
 
 #### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-16223A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-16223A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-16223A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 
 #### Backend & ERP
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-16223A?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Laravel](https://img.shields.io/badge/Laravel-16223A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-16223A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Odoo](https://img.shields.io/badge/Odoo-16223A?style=for-the-badge&logo=odoo&logoColor=C29BBC)
+![Prisma](https://img.shields.io/badge/Prisma-16223A?style=for-the-badge&logo=prisma&logoColor=white)
 
 #### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E5BF?style=for-the-badge&logo=neon&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16223A?style=for-the-badge&logo=postgresql&logoColor=699ECA)
+![MySQL](https://img.shields.io/badge/MySQL-16223A?style=for-the-badge&logo=mysql&logoColor=4EA0D8)
+![Supabase](https://img.shields.io/badge/Supabase-16223A?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Neon](https://img.shields.io/badge/Neon-16223A?style=for-the-badge&logo=neon&logoColor=00E5BF)
+![Firebase](https://img.shields.io/badge/Firebase-16223A?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-16223A?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Vercel](https://img.shields.io/badge/Vercel-16223A?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### AI-Assisted Development
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-16223A?style=for-the-badge&logo=claude&logoColor=D97757)
+![Claude Code](https://img.shields.io/badge/Claude_Code-16223A?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-16223A?style=for-the-badge&logo=openai&logoColor=white)
 
 #### Design & Creative
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-16223A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Photoshop](https://img.shields.io/badge/Photoshop-16223A?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-16223A?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-16223A?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
+![Canva](https://img.shields.io/badge/Canva-16223A?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 #### Marketing & Analytics
-![Meta](https://img.shields.io/badge/Meta_Business-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Meta Business](https://img.shields.io/badge/Meta_Business-16223A?style=for-the-badge&logo=meta&logoColor=1877F2)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-16223A?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
+![TikTok](https://img.shields.io/badge/TikTok-16223A?style=for-the-badge&logo=tiktok&logoColor=white)
 
 #### Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
+![Git](https://img.shields.io/badge/Git-16223A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-16223A?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-16223A?style=for-the-badge&logo=visualstudiocode&logoColor=3EA6FF)
+![Postman](https://img.shields.io/badge/Postman-16223A?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Notion](https://img.shields.io/badge/Notion-16223A?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-16223A?style=for-the-badge&logo=trello&logoColor=2D9CDB)
 
 </div>
-
----
 
 ## Experience
 
@@ -162,22 +142,16 @@ Content strategy, community building, and performance analytics across Meta and 
 | **HCGA & IT Developer** | PT LBQueen Care Beauty | Internal systems, HR & GA digitalization, process automation |
 | **Social Media & Community Specialist** | PT Arga Bumi Indonesia | Content strategy, community growth, campaign analytics |
 
-<!-- Tambahkan pekerjaan terbaru dari portfolio di baris paling atas tabel di atas. -->
-
----
-
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mfadlikurniawann-webdev&show_icons=true&count_private=true&bg_color=0E1726&title_color=2DD4BF&icon_color=F5B942&text_color=C9D4E5&hide_border=true&border_radius=12" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlikurniawann-webdev&layout=compact&langs_count=8&bg_color=0E1726&title_color=2DD4BF&icon_color=F5B942&text_color=C9D4E5&hide_border=true&border_radius=12" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mfadlikurniawann-webdev&background=0E1726&ring=2DD4BF&fire=F5B942&currStreakNum=E6EDF7&sideNums=E6EDF7&currStreakLabel=2DD4BF&sideLabels=8A9BB8&dates=8A9BB8&stroke=1E2A44&hide_border=true&border_radius=12" />
 </div>
-
----
 
 ## Certifications
 
@@ -192,28 +166,18 @@ Content strategy, community building, and performance analytics across Meta and 
 </tr>
 </table>
 
----
-
 <div align="center">
 
 ### Open to Collaboration
 
 Whether it's a **web application**, an **Odoo / ERP project**, an **internal system**, a **brand campaign**, or a conversation about technology and product strategy — I'm always open.
 
-<a href="https://www.mfadlikurniawan.online">
-  <img src="https://img.shields.io/badge/Visit_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:mfadlikurniawann@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mfadlikurniawan">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.mfadlikurniawan.online"><img src="https://img.shields.io/badge/Visit_Portfolio-16223A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:mfadlikurniawann@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-16223A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://www.linkedin.com/in/mfadlikurniawan"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-16223A?style=for-the-badge&logo=linkedin&logoColor=0A9DFF" /></a>
 
 <br/><br/>
 
-*"Code with logic. Design with empathy. Grow with story."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="Code with logic. Design with empathy. Grow with story." />
 
 </div>
