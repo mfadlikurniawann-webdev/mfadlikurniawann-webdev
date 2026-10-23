@@ -26,8 +26,8 @@ const fadli = {
   location  : "Bandar Lampung, Indonesia",
   education : "S.Kom Informatics — Cum Laude (GPA 3.57)",
   roles     : [
-    "HCGA & IT Developer @ PT LBQueen Care Beauty",
-    "Social Media & Community Specialist @ PT Arga Bumi Indonesia"
+    "IT Developer @ PT Arga Bumi Indoensia",
+    "Founder @ Jadi Kreatif Indonesia"
   ],
   focus     : [
     "Full-Stack Web Development",
