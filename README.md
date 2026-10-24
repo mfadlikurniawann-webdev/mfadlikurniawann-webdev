@@ -1,17 +1,55 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="M Fadli Kurniawan" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+web+apps+%26+internal+systems;Odoo+ERP+%7C+Python+%7C+FastAPI+%7C+Laravel;AI-assisted+development+with+Claude+%26+Codex;Where+logic+meets+creativity" alt="Typing SVG" />
-</div>
+```text
+  ●  ●  ●     fadli@portfolio: ~/mfadlikurniawan.online
 
-<div align="center">
-  <a href="https://www.mfadlikurniawan.online"><img src="https://img.shields.io/badge/Portfolio-16223A?style=flat-square&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mfadlikurniawan"><img src="https://img.shields.io/badge/LinkedIn-16223A?style=flat-square&logo=linkedin&logoColor=0A9DFF" /></a>
-  <a href="https://instagram.com/fadlikurniiaawan"><img src="https://img.shields.io/badge/Instagram-16223A?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-  <a href="mailto:mfadlikurniawann@gmail.com"><img src="https://img.shields.io/badge/Gmail-16223A?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mfadlikurniawann-webdev&style=flat-square&color=2DD4BF&label=Profile+views" />
+  ███████╗ █████╗ ██████╗ ██╗     ██╗
+  ██╔════╝██╔══██╗██╔══██╗██║     ██║
+  █████╗  ███████║██║  ██║██║     ██║
+  ██╔══╝  ██╔══██║██║  ██║██║     ██║
+  ██║     ██║  ██║██████╔╝███████╗██║
+  ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝
+
+  $ whoami
+  > M Fadli Kurniawan — Software Developer & Creative Designer
+
+  $ cat services.txt
+  > Custom Web Apps · POS · HRIS · Client Portals · Odoo ERP · Premium Branding
+
+  $ echo $PRINCIPLE
+  > "Where logic meets creativity."
+```
+
+<h2>M Fadli Kurniawan</h2>
+
+<p>
+  <b>Full Stack Developer</b> &nbsp;·&nbsp; <b>Creative Designer</b> &nbsp;·&nbsp; <b>Social Media Specialist</b>
+</p>
+
+<p>
+  <sub>Saya membangun aplikasi web, sistem internal, dan solusi ERP — lalu menceritakannya dengan cara yang tepat sasaran.</sub>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Custom+Web+Apps%2C+POS%2C+HRIS+%26+Client+Portals;Odoo+ERP+%7C+Python+%7C+FastAPI+%7C+Laravel;Premium+Branding+%26+Digital+Marketing;AI-assisted+development+with+Claude+%26+Codex;Where+logic+meets+creativity" alt="Typing SVG" />
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="25%">🎓<br/><b>S.Kom, Cum Laude</b><br/><sub>Informatics · GPA 3.57</sub></td>
+    <td align="center" width="25%">💼<br/><b>IT Developer</b><br/><sub>PT Arga Bumi Indonesia</sub></td>
+    <td align="center" width="25%">🚀<br/><b>Founder</b><br/><sub>Jadi Kreatif Indonesia</sub></td>
+    <td align="center" width="25%">📍<br/><b>Bandar Lampung</b><br/><sub>Indonesia · Open to remote</sub></td>
+  </tr>
+</table>
+
+<a href="https://www.mfadlikurniawan.online"><img src="https://img.shields.io/badge/Portfolio-16223A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mfadlikurniawan"><img src="https://img.shields.io/badge/LinkedIn-16223A?style=for-the-badge&logo=linkedin&logoColor=0A9DFF" /></a>
+<a href="https://instagram.com/fadlikurniiaawan"><img src="https://img.shields.io/badge/Instagram-16223A?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="mailto:mfadlikurniawann@gmail.com"><img src="https://img.shields.io/badge/Gmail-16223A?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=mfadlikurniawann-webdev&style=flat-square&color=2DD4BF&label=Profile+views" />
+
 </div>
 
 <br/>
@@ -26,7 +64,7 @@ const fadli = {
   location  : "Bandar Lampung, Indonesia",
   education : "S.Kom Informatics — Cum Laude (GPA 3.57)",
   roles     : [
-    "IT Developer @ PT Arga Bumi Indoensia",
+    "IT Developer @ PT Arga Bumi Indonesia",
     "Founder @ Jadi Kreatif Indonesia"
   ],
   focus     : [
@@ -48,13 +86,13 @@ const fadli = {
 <td width="50%" valign="top">
 
 **Web Applications**<br/>
-Modern, responsive apps with React, Next.js, and Laravel — from landing pages to full dashboards.
+Modern, responsive apps with React, Next.js, and Laravel — from landing pages and client portals to full dashboards.
 
 </td>
 <td width="50%" valign="top">
 
 **ERP & Internal Systems**<br/>
-Odoo modules, HR/GA tools, and back-office systems that replace spreadsheets and manual work.
+Odoo modules, POS, HRIS, HR/GA tools, and back-office systems that replace spreadsheets and manual work.
 
 </td>
 </tr>
@@ -68,7 +106,7 @@ REST APIs with FastAPI, Go, and Node.js, plus scripts and integrations that auto
 <td width="50%" valign="top">
 
 **Brand & Digital Campaigns**<br/>
-Content strategy, community building, and performance analytics across Meta and TikTok.
+Premium branding, content strategy, community building, and performance analytics across Meta and TikTok.
 
 </td>
 </tr>
@@ -178,6 +216,10 @@ Whether it's a **web application**, an **Odoo / ERP project**, an **internal sys
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Code with logic. Design with empathy. Grow with story." />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**Code with logic.** &nbsp;·&nbsp; **Design with empathy.** &nbsp;·&nbsp; **Grow with story.**
+
+<sub>© M Fadli Kurniawan · <a href="https://www.mfadlikurniawan.online">mfadlikurniawan.online</a></sub>
 
 </div>
