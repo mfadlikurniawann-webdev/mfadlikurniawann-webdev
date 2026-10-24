@@ -1,83 +1,104 @@
+<!-- ===== HEADER (animated) ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1726,50:134E5E,100:2DD4BF&height=220&section=header&text=M%20Fadli%20Kurniawan&fontSize=46&fontColor=E6EDF7&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20ERP%20Engineer&descSize=17&descAlignY=56" width="100%" alt="M Fadli Kurniawan" />
+
 <div align="center">
 
-# M Fadli Kurniawan
+<!-- Terminal typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=2DD4BF&background=0E172600&multiline=true&width=640&height=110&lines=%24+whoami;%3E+Software+Developer+%26+Creative+Designer;%24+cat+services.txt;%3E+Web+Apps+%C2%B7+POS+%C2%B7+HRIS+%C2%B7+Client+Portals+%C2%B7+Odoo+ERP" alt="whoami" />
 
-**Software Developer** — Full-Stack Web · ERP (Odoo) · Backend APIs
+<br/>
 
-Building web applications, internal systems, and ERP solutions that replace manual work.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E1726?style=flat-square&logo=vercel&logoColor=white)](https://www.mfadlikurniawan.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1726?style=flat-square&logo=linkedin&logoColor=0A9DFF)](https://www.linkedin.com/in/mfadlikurniawan)
-[![Email](https://img.shields.io/badge/Email-0E1726?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mfadlikurniawann@gmail.com)
+<a href="https://www.mfadlikurniawan.online"><img src="https://img.shields.io/badge/Portfolio-0E1726?style=for-the-badge&logo=vercel&logoColor=2DD4BF" /></a>
+<a href="https://www.linkedin.com/in/mfadlikurniawan"><img src="https://img.shields.io/badge/LinkedIn-0E1726?style=for-the-badge&logo=linkedin&logoColor=0A9DFF" /></a>
+<a href="mailto:mfadlikurniawann@gmail.com"><img src="https://img.shields.io/badge/Email-0E1726?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
 </div>
 
----
+<br/>
+
+## 👨‍💻 About Me
+
+Informatics graduate (**S.Kom, Cum Laude**) from Bandar Lampung, Indonesia. I build **web applications, internal business systems, and ERP solutions** — software that replaces spreadsheets and manual work with clean, reliable workflows. I combine engineering with a designer's eye, so the products I ship are not only functional but also easy and pleasant to use.
 
 ```python
 class Developer:
     name      = "M Fadli Kurniawan"
-    role      = "Software Developer"
-    education = "S.Kom Informatics, Cum Laude"
-    location  = "Bandar Lampung, Indonesia"
+    role      = "Software Developer & Creative Designer"
+    education = "S.Kom Informatics — Cum Laude (GPA 3.57)"
+    location  = "Bandar Lampung, Indonesia 🇮🇩"
 
-    stack = {
-        "backend" : ["Python", "FastAPI", "Laravel", "Node.js", "Go"],
-        "frontend": ["TypeScript", "React", "Next.js", "Tailwind CSS"],
-        "erp"     : ["Odoo"],
-        "data"    : ["PostgreSQL", "MySQL", "Supabase", "Firebase"],
-    }
+    current = [
+        "IT Developer @ PT Arga Bumi Indonesia",
+        "Founder @ Jadi Kreatif Indonesia",
+    ]
 
-    builds = ["Web Apps", "POS", "HRIS", "Client Portals", "ERP Modules", "REST APIs"]
+    builds = ["Custom Web Apps", "POS", "HRIS", "Client Portals", "ERP Modules", "REST APIs"]
+    workflow  = ["Claude Code", "OpenAI Codex"]   # AI-assisted engineering
+    principle = "Where logic meets creativity."
 ```
 
-## What I Work On
+## 🛠️ What I Build
 
-| Area | Description |
-|------|-------------|
-| **Web Applications** | Full-stack apps and dashboards with React, Next.js, and Laravel |
-| **ERP & Internal Systems** | Odoo customization, POS, HRIS, and back-office tools |
-| **APIs & Automation** | REST APIs with FastAPI, Go, and Node.js, plus process automation |
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-## Tech Stack
+### 🌐
+**Web Applications**<br/>
+<sub>Full-stack apps, client portals & dashboards with React, Next.js, and Laravel</sub>
 
-![Python](https://img.shields.io/badge/Python-0E1726?style=flat-square&logo=python&logoColor=FFD43B)
-![TypeScript](https://img.shields.io/badge/TypeScript-0E1726?style=flat-square&logo=typescript&logoColor=3178C6)
-![PHP](https://img.shields.io/badge/PHP-0E1726?style=flat-square&logo=php&logoColor=8892BF)
-![Go](https://img.shields.io/badge/Go-0E1726?style=flat-square&logo=go&logoColor=00ADD8)
-![FastAPI](https://img.shields.io/badge/FastAPI-0E1726?style=flat-square&logo=fastapi&logoColor=009688)
-![Laravel](https://img.shields.io/badge/Laravel-0E1726?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-0E1726?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![React](https://img.shields.io/badge/React-0E1726?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0E1726?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0E1726?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Odoo](https://img.shields.io/badge/Odoo-0E1726?style=flat-square&logo=odoo&logoColor=C29BBC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0E1726?style=flat-square&logo=postgresql&logoColor=699ECA)
-![MySQL](https://img.shields.io/badge/MySQL-0E1726?style=flat-square&logo=mysql&logoColor=4EA0D8)
-![Supabase](https://img.shields.io/badge/Supabase-0E1726?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-0E1726?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0E1726?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Vercel](https://img.shields.io/badge/Vercel-0E1726?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0E1726?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-0E1726?style=flat-square&logo=postman&logoColor=FF6C37)
-![Claude Code](https://img.shields.io/badge/Claude_Code-0E1726?style=flat-square&logo=claude&logoColor=D97757)
+</td>
+<td width="33%" valign="top" align="center">
 
-## Experience
+### 🏢
+**ERP & Internal Systems**<br/>
+<sub>Odoo customization, POS, HRIS, and back-office tools</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️
+**APIs & Automation**<br/>
+<sub>REST APIs with FastAPI, Go & Node.js, plus process automation</sub>
+
+</td>
+</tr>
+</table>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,go,fastapi,laravel,nodejs,react,nextjs,tailwind,postgres,mysql,supabase,firebase,gcp,vercel,git,postman,figma&perline=10&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+![Odoo](https://img.shields.io/badge/Odoo_ERP-0E1726?style=for-the-badge&logo=odoo&logoColor=C29BBC)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0E1726?style=for-the-badge&logo=claude&logoColor=D97757)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-0E1726?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+## 💼 Experience
 
 | Role | Company | Focus |
 |------|---------|-------|
+| **IT Developer** | PT Arga Bumi Indonesia | Web apps, internal systems, ERP |
+| **Founder** | Jadi Kreatif Indonesia | Digital products, branding & web solutions |
 | **HCGA & IT Developer** | PT LBQueen Care Beauty | Internal systems, HR & GA digitalization, process automation |
-| **Social Media & Community Specialist** | PT Arga Bumi Indonesia | Content strategy, community growth, campaign analytics |
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mfadlikurniawann-webdev&show_icons=true&count_private=true&bg_color=0E1726&title_color=2DD4BF&icon_color=F5B942&text_color=C9D4E5&hide_border=true&border_radius=8" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlikurniawann-webdev&layout=compact&langs_count=6&bg_color=0E1726&title_color=2DD4BF&text_color=C9D4E5&hide_border=true&border_radius=8" />
-</div>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-<sub>Open to collaboration on web apps, ERP projects, and internal systems · <a href="https://www.mfadlikurniawan.online">mfadlikurniawan.online</a></sub>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mfadlikurniawann-webdev&show_icons=true&count_private=true&bg_color=0E1726&title_color=2DD4BF&icon_color=F5B942&text_color=C9D4E5&hide_border=true&border_radius=10" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfadlikurniawann-webdev&layout=compact&langs_count=6&bg_color=0E1726&title_color=2DD4BF&text_color=C9D4E5&hide_border=true&border_radius=10" />
 </div>
+
+<br/>
+
+<div align="center">
+  <sub><b>Open to collaboration</b> — web apps, ERP projects & internal systems · <a href="https://www.mfadlikurniawan.online">mfadlikurniawan.online</a></sub>
+</div>
+
+<!-- ===== FOOTER (animated) ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:134E5E,100:0E1726&height=120&section=footer&animation=twinkling" width="100%" alt="" />
